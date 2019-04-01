@@ -1,0 +1,8 @@
+seed.rivxcoin.com:15750
+seed1.rivxcoin.com:15750
+seed2.rivxcoin.com:15750
+seed3.rivxcoin.com:15750
+seed4.rivxcoin.com:15750
+seed5.rivxcoin.com:15750
+seed6.rivxcoin.com:15750
+
